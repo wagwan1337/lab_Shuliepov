@@ -1,3 +1,3 @@
 Практична 1
-# Lab Ivanenko
+# Lab Shuliepov
 This is my first Git project.
