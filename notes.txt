@@ -1,0 +1,3 @@
+Git tracks file changes.
+Git saves changes using commits.
+Git helps manage project history.
