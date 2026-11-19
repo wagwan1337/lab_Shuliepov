@@ -1,2 +1,2 @@
 print('Hello, world')
-print('Author: Ivanenko')
+print('Author: Shuliepov')
